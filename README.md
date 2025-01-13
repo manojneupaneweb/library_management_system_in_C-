@@ -79,7 +79,7 @@ Here is a brief explanation of the key functions:
 ## Project Details  
 
 - **Project Name**: Library and Database Management System (LMS)  
-- **Developer**: Achyut Neupane  
+- **Developer**: Manoj Neupane  
 - **Semester**: 2nd Semester  
 - **Course**: Bachelor of Information Technology (BIT)  
 
